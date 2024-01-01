@@ -1,0 +1,30 @@
+{
+  "name": "jest-newrelic",
+  "version": "0.0.1",
+  "description": "Jest plugin to monitor tests with New Relic",
+  "license": "MIT",
+  "author": "ofry linkovsky <ofryli@gmail.com>",
+  "homepage": "https://github.com/OfryL/jest-newrelic",
+  "repository": "https://github.com/OfryL/jest-newrelic",
+  "keywords": [
+    "declarative",
+    "jest",
+    "jest-plugin",
+    "plugin",
+    "test",
+    "newrelic",
+    "monitoring"
+  ],
+  "main": "src/",
+  "files": [
+    "src",
+    "setup.js"
+  ],
+  "dependencies": {
+    "newrelic": "^11.7.0"
+  },
+  "peerDependencies": {
+    "jest": "*"
+  },
+  "scripts": {}
+}
