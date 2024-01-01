@@ -1,4 +1,4 @@
-# jest-plugin-for-each
+# jest-newrelic
 
 Add newrelic transaction to jest tests
 
